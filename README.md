@@ -1,3 +1,3 @@
 # Can AI Show Creativity in Mathematics? 
 
-[Download the PDF document](CreativeAI.pdf)
+[Read the rest of the file here](CreativeAI.pdf)
