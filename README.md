@@ -24,4 +24,4 @@ We cannot change the past, our genetics, or many other factors that influence cr
 In the following, we first define creativity. Then, as we consider AI as a probabilistic decision maker, we present anecdotes from the history of mathematics to illustrate how certain ideas—born from human creativity—emerge in ways that AI might not be able to obtain.
 
 
-[Read the rest of the file here](CreativeAI.pdf)
+[Read the rest of the file here](CreativeAI(1).pdf)
